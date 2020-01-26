@@ -40,6 +40,8 @@ figcaption {
   display: block;
   float: left;
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #details {
