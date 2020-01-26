@@ -41,6 +41,5 @@ figcaption {
   float: left;
   text-align: center;
   background: silver;
-  justify-content: space-between;
   width: 25%;
 }
